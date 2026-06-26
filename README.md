@@ -22,7 +22,7 @@ I learn by doing — through hands-on labs, real-world projects, and self-direct
 `Wireshark` `Burp Suite` `OWASP ZAP` `Nmap` `Nuclei` `Sqlmap` `Microsoft Sentinel`
 
 **Platforms**
-`TryHackMe` `Hack The Box` `LetsDefend`
+`TryHackMe — Top 7%` `Hack The Box` `LetsDefend`
 
 **Dev (bonus for SOC)**
 `Python` `JavaScript` `Git`
@@ -43,6 +43,7 @@ Structured self-directed bootcamp covering core SOC Analyst skills.
 - Windows Event Logs & key Event IDs
 - Logon types & persistence mechanisms
 - MITRE ATT&CK mappings
+- Cyber Kill Chain stages & SOC mapping
 - Threat hunting scenarios
 
 ### 🔬 [Cyber Forensics Internship Report](https://github.com/AleenaRoseGeorge/cyber-forensics-internship)
@@ -66,6 +67,25 @@ Structured self-directed bootcamp covering core SOC Analyst skills.
 
 - 🔵 SOC Analyst Bootcamp (Day 3/20)
 - 🔵 Microsoft Sentinel & SIEM workflows
+- ✅ Cyber Kill Chain — TryHackMe
 - 🔵 Threat Hunting on TryHackMe & HackTheBox
 
 ---
+
+## 🧪 TryHackMe Stats
+
+| Stat | Value |
+|------|-------|
+| 🏆 Global Rank | Top 7% |
+| 🛡️ Completed Rooms | 45 |
+| 🎖️ Badges | 8 |
+| 🔗 Profile | [aleenarosegeorge770](https://tryhackme.com/p/aleenarosegeorge770) |
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aleena%20Rose%20George-blue?style=flat&logo=linkedin)](https://linkedin.com/in/aleena-rose-george)
+
+💼 **Actively looking for SOC Analyst (L1/L2) and Blue Team roles.**  
+Feel free to reach out!
