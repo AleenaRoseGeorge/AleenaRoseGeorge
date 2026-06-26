@@ -65,7 +65,7 @@ Structured self-directed bootcamp covering core SOC Analyst skills.
 
 ## 📊 Currently Learning
 
-- 🔵 SOC Analyst Bootcamp (Day 3/20)
+- 🔵 SOC Analyst Bootcamp (Day 4/20)
 - 🔵 Microsoft Sentinel & SIEM workflows
 - ✅ Cyber Kill Chain — TryHackMe
 - 🔵 Threat Hunting on TryHackMe & HackTheBox
